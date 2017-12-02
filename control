@@ -1,0 +1,10 @@
+Package: com.mbo42.updateproxysettings
+Name: UpdateProxySettings
+Depends: firmware(>=8)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Command line tool to update proxy settings
+Maintainer: Mikael
+Author: Mikael
+Section: System
+Tag: role::hacker

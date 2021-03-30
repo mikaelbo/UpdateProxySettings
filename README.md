@@ -2,7 +2,7 @@
 
 A simple iOS command line tool for updating proxy settings. Based on [Danny Liu](https://github.com/DYun)'s project, [iOSProxyManager](https://github.com/DYun/iOSProxyManager). 
 
-Requires a jailbroken phone with iOS 8+.
+Requires a jailbroken phone with <b>iOS 8+</b>.
 
 ## Usage
 
